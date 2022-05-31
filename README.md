@@ -10,4 +10,4 @@
 | Last name   | First name  | ID           |
 | ----------- | ----------- | ------------ |
 | Debboub     | Abderrahim  | 191932026952 |
-| khelifi     | Abderrahmane| 181831041155 |
+| Khelifi     | Abderrahmane| 181831041155 |
